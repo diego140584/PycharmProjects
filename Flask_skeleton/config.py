@@ -1,0 +1,2 @@
+class Constraction:
+    DEBUG = True
